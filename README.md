@@ -1,5 +1,10 @@
 # 🚀 TweetApp – Django Based Microblogging Web Application
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Django](https://img.shields.io/badge/Django-Framework-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 TweetApp is a Django-powered microblogging web application that allows users to create, update, and delete tweets.
 
 The project demonstrates core backend development concepts including full CRUD functionality, Django ORM integration, form handling, template rendering, and structured project architecture.
